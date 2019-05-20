@@ -20,13 +20,13 @@ Generates _*SM*Configurator.swift_, _*SM*View.swift_, etc.
 
 ### Project Name
 
-`./generateModule.pl SM ViperProject`
+`./generateModule.pl VP ViperProject`
 
 Sets _ViperProject_ in files headers
 
 ### Developer Name
 
-`./generateModule.pl SM ViperProject "Craig Frederighi"`
+`./generateModule.pl VP ViperProject "Craig Frederighi"`
 
 Sets _Craig Frederighi_ in files headers
 

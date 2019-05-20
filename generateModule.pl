@@ -38,8 +38,6 @@ sub main {
 	my $shortName = $ARGV[0];
 	my $projectName = defined $ARGV[1] ? $ARGV[1] : "ViperProject";
 	my $developerName = defined $ARGV[2] ? $ARGV[2] : "Craig Frederighi";
-	my $date = strftime "%m/%d/%Y", localtime;
-	my $year = strftime "%Y", localtime;
 
 	configurator($shortName, $projectName, $developerName);
 	constants($shortName, $projectName, $developerName);

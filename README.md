@@ -16,19 +16,19 @@
 
 `./generateModule.pl SM`
 
-Generates *_SM_Configurator.swift*, *_SM_View.swift*, etc.
+Generates **_SM_Configurator.swift**, **_SM_View.swift**, etc.
 
 ### Project Name
 
 `./generateModule.pl VP ViperProject`
 
-Sets *ViperProject* in files headers
+Sets **ViperProject** in files headers
 
 ### Developer Name
 
 `./generateModule.pl VP ViperProject "Craig Frederighi"`
 
-Sets *Craig Frederighi* in files headers
+Sets **Craig Frederighi** in files headers
 
 ## Clean
 

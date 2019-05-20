@@ -16,7 +16,7 @@
 
 `./generateModule.pl SM`
 
-Generates **_SM_Configurator.swift**, **_SM_View.swift**, etc.
+Generates **SM**Configurator.swift, **SM**View.swift, etc.
 
 ### Project Name
 

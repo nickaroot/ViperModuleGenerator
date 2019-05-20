@@ -12,7 +12,7 @@
 
 `./generateModule.pl <ModulePrefix> [<ProjectName>] [<DeveloperName>]`
 
-### Nodule Prefix
+### Module Prefix
 
 `./generateModule.pl SM`
 

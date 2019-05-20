@@ -3,7 +3,9 @@
 ## Quick Start
 
 `git clone https://github.com/nickaroot/ViperModuleGenerator`
+
 `cd ViperModuleGenerator`
+
 `./generateModule.pl SM`
 
 ## Generate
